@@ -1,0 +1,83 @@
+﻿#EXTM3U
+
+#EXTINF:1, tvg-id="EPG N/A" tvg-logo="https://www.pngitem.com/pimgs/m/494-4944795_cbs-justice-logo-hd-png-download.png" tvg-name="CBS Justice"  group-title="Entertainment",CBS Justice
+https://list.iptvcat.com/my_list/s/a98b0fb9017a0cec691d305243ffff05.m3u8
+
+#EXTINF:2, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png" tvg-name="Cinemax"  group-title="Movies",Cinemax
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+
+#EXTINF:3, tvg-id="EPG N/A" tvg-logo="https://www.pngfind.com/pngs/m/485-4859865_my-image-crackle-logo-png-transparent-png.png" tvg-name="Crackle"  group-title="Movies",Crackle
+https://crackle-plex.amagi.tv/playlist.m3u8
+
+#EXTINF:4, tvg-id="EPG N/A" tvg-logo="https://www.pngfind.com/pngs/m/485-4859865_my-image-crackle-logo-png-transparent-png.png" tvg-name="Crackle HD"  group-title="Movies",Crackle HD
+http://crackle-xumo.amagi.tv/playlist.m3u8
+
+#EXTINF:5, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Crime%2BInvestigation_logo_2013.png" tvg-name="Crime and Investigation"  group-title="Entertainment",Crime and Investigation
+https://list.iptvcat.com/my_list/s/16ee270b9fef34174c95eed46e86c9b7.m3u8
+
+#EXTINF:6, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/253/281/png-clipart-discovery-channel-logo-discovery-channel-logo-television-channel-discovery-inc-investigation-television-world-thumbnail.png" tvg-name="Discovery Channel"  group-title="Entertainment",Discovery Channel
+https://list.iptvcat.com/my_list/s/c59dbc68e3818295490d62c14ec3649e.m3u8
+
+#EXTINF:7, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/34/404/png-clipart-discovery-science-discovery-channel-investigation-discovery-logo-science-television-text-thumbnail.png" tvg-name="Discovery Science"  group-title="Science",Discovery Science
+https://list.iptvcat.com/my_list/s/7d42124f391587a1cb1c78fb48e63c0d.m3u8
+
+#EXTINF:8, tvg-id="EPG N/A" tvg-logo="https://watchdust.com/wp-content/uploads/2021/01/DUST_Corporate_Logo-copy.png" tvg-name="Dust"  group-title="Movies",Dust
+https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:9, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/DZBB594.svg/1200px-DZBB594.svg.png" tvg-name="DZBB Radio"  group-title="Pinoy Channel",DZBB Radio
+http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8
+
+#EXTINF:10, tvg-id="EPG N/A" tvg-logo="https://image.roku.com/developer_channels/prod/16714093947977ff965bf0d9096488f558df11099d1b140cf62f52ae8158a01c.png" tvg-name="FrightFlix"  group-title="Movies",FrightFlix
+https://content.uplynk.com/channel/4b3fda1ff2c24556bc2c6034307d117d.m3u8
+
+#EXTINF:11, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/417/102/png-clipart-computer-icons-hbo-go-television-hbo-television-text-thumbnail.png" tvg-name="HBO Malaysia"  group-title="Movies",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+#EXTINF:12, tvg-id="EPG N/A" tvg-logo="https://w1.pngwing.com/pngs/160/262/png-transparent-iflix-red-logo-text-line-area-thumbnail.png" tvg-name="IFLIX"  group-title="Movies",IFLIX
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+
+#EXTINF:13, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/891/781/png-clipart-mtv-logo-mtv-logo-tv-viacom-media-networks-axe-logo-miscellaneous-television-thumbnail.png" tvg-name="MTV Classic"  group-title="Music",MTV Classic
+https://list.iptvcat.com/my_list/s/7176193548c88a40dc56e62df0d23ed1.m3u8
+
+#EXTINF:14, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/891/781/png-clipart-mtv-logo-mtv-logo-tv-viacom-media-networks-axe-logo-miscellaneous-television-thumbnail.png" tvg-name="MTV Hits"  group-title="Music",MTV Hits
+https://list.iptvcat.com/my_list/s/9cd657726ba883c5dfd87fba34543ff1.m3u8
+
+#EXTINF:15, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/891/781/png-clipart-mtv-logo-mtv-logo-tv-viacom-media-networks-axe-logo-miscellaneous-television-thumbnail.png" tvg-name="MTV Now"  group-title="Entertainment",MTV Now
+https://list.iptvcat.com/my_list/s/4bb168eac701b173d484f0fec0379d6d.m3u8
+
+#EXTINF:16, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/891/781/png-clipart-mtv-logo-mtv-logo-tv-viacom-media-networks-axe-logo-miscellaneous-television-thumbnail.png" tvg-name="MTV UK"  group-title="Entertainment",MTV UK
+https://list.iptvcat.com/my_list/s/6107e67698d26a2e0a590082b55de420.m3u8
+
+#EXTINF:17, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/47/543/png-clipart-logo-nat-geo-wild-national-geographic-television-channel-others-thumbnail.png" tvg-name="National Geographic Wild"  group-title="Science",National Geographic Wild
+https://list.iptvcat.com/my_list/s/93411c989869868f75e76d04079327b3.m3u8
+
+#EXTINF:18, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/126/557/png-clipart-nba-logo-2005u201306-nba-season-orlando-magic-the-nba-finals-logo-nba-professional-basketball-logo-free-logo-design-template-text-thumbnail.png" tvg-name="NBA TV"  group-title="Sports",NBA TV
+https://list.iptvcat.com/my_list/s/bbfb208c4102e4d233dcb654b1320ee1.m3u8
+
+#EXTINF:19, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/643/530/png-clipart-pbs-kids-logo-television-public-broadcasting-pbs-america-text-trademark-thumbnail.png" tvg-name="PBS America"  group-title="Entertainment",PBS America
+https://list.iptvcat.com/my_list/s/2b301cfd413bd3c028c8e956acb253aa.m3u8
+
+#EXTINF:20, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/127/597/png-clipart-warner-bros-studio-tour-hollywood-logo-paramount-s-warner-bros-animation-emblem-text-thumbnail.png" tvg-name="Warner TV"  group-title="Movies",Warner TV
+http://203.154.243.89:11205
+
+#EXTINF:21, tvg-id="EPG N/A" tvg-logo="https://e7.pngegg.com/pngimages/237/109/png-clipart-nbc-box-nbc-logo-icons-logos-emojis-iconic-brands-thumbnail.png" tvg-name="CBC News"  group-title="News",CBC News
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+
+#EXTINF:22, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/2560px-Deutsche_Welle_Logo.svg.png" tvg-name="DW News"  group-title="News",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+
+#EXTINF:23, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/1200px-FRANCE_24_logo.svg.png" tvg-name="France 24"  group-title="News",France 24
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+
+#EXTINF:24, tvg-id="EPG N/A" tvg-logo="https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2017/07/mmaj-header-logo.png" tvg-name="MMA Junkie"  group-title="Sports",MMA Junkie
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziousatodaysportswire/CDN/playlist.m3u8
+
+#EXTINF:25, tvg-id="EPG N/A" tvg-logo="https://d2suv5gemfchwa.cloudfront.net/assets/images/logos/apps/transparent/padded/pluto_tv_new.png" tvg-name="Pluto Anime"  group-title="Anime",Pluto Anime
+https://list.iptvcat.com/my_list/s/446d36f14f5746dddc98a51fb2b3f145.m3u8
+
+#EXTINF:26, tvg-id="EPG N/A" tvg-logo="https://image.roku.com/developer_channels/prod/1746249af74e913e54c0af93fee4e5dab039edabec23f556ec6a20fdb784c6e9.png" tvg-name="CONTV"  group-title="Anime",CONTV
+https://list.iptvcat.com/my_list/s/b9c9d73b995c66e0f38d217c3cd17c58.m3u8
+
+#EXTINF:27, tvg-id="EPG N/A" tvg-logo="https://w1.pngwing.com/pngs/160/262/png-transparent-iflix-red-logo-text-line-area-thumbnail.png" tvg-name="IFLIX 2"  group-title="Movies",IFLIX 2
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
